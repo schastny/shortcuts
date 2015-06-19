@@ -1,4 +1,4 @@
-##Firefox  
+##Chrome (Firefox)  
 Key  | Meaning
 -----  | ----
 Ctrl+Tab  | Iterate over tabs
