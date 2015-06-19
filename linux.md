@@ -19,8 +19,7 @@ Ctrl + y  | Paste the last cut text
 Alt + y (use it after Ctrl + y)  | Loop through and paste previously cut text
 Alt + .  | Loop through and paste the last argument of previous commands
   | **Search the cmd history**
-Ctrl + r 
-and type the search term  | Search as you type. Repeat Ctrl + r to loop through results
+Ctrl + r (and type the search term)  | Search as you type. Repeat Ctrl + r to loop through results
 Ctrl + r twice  | Search the last remembered search term
 Ctrl + j  | End the search at current history entry
 Ctrl + g  | Cancel the search and restore original line
