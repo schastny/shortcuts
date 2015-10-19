@@ -12,6 +12,7 @@ Alt-F12  | Terminal
 Ctrl-Tab  | Switch Tab (Or just jump to code tabs)
 Ctrl-E  | Recent Tabs
 Alt-→ / Alt-←  | Switch between open tabs
+Alt Graph-→ / Alt Graph-←  | Jump to previous location in file
 Ctrl-F4  | Close Active Tab
 Ctrl-Shift-Arrows  | Resize (tool) windows with keyboard
 Ctrl-Shift-F12  | Maximize the editor pane
