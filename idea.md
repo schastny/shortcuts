@@ -39,6 +39,9 @@ Alt-Shift-Up/Down  | Move line up/down
 Ctrl-Y  | Remove a line
 Ctrl-Alt-L  | Format code
   | 
+Ctrl-Shift-,  | Multiple Cursors and Selection - Settings -> Keymap -> Clone Caret Above
+Ctrl-Shift-M  | Multiple Cursors and Selection - Settings -> Keymap -> Clone Caret Below
+  | 
 Ctrl-N  | Go to Class, to open any class in the editor
 Ctrl-Shift-N  | To open any file, not just classes
   | 
