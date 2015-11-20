@@ -9,3 +9,4 @@ Shortcuts I use
 6. [Far] (far.md)
 7. [Linux] (linux.md)
 8. [Linux less] (less.md)
+9. [Vim] (vim.md)
