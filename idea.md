@@ -33,6 +33,7 @@ Ctrl-B  | Go to Declaration.
 Ctrl-G  | Go to line
 Ctrl-F12  | Jump to method
 Alt-F7  | Find usages
+Alt-S  | Show whiteSpaces
   | 
 Ctrl-D  | Duplicate line or block
 Alt-Shift-Up/Down  | Move line up/down
