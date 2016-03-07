@@ -3,7 +3,7 @@
 Key  | Meaning
 -----  | ----
 Ctrl+F1  | Hide/show the ribbon
-Ctrl+Enter  | Send / Close item
+Ctrl+Enter  | Send and Close item
  
 ###Working with emails
 Key  | Meaning
