@@ -26,13 +26,13 @@ To set up a "jump to next unread" shortcut, see the instructions here.
 ###Jumping between folders
 Key  | Meaning
 -----  | ----
-Ctrl+1  | Jump to Mail Folder
-Ctrl+2  | Jump to Calendar Folder
-Ctrl+3  | Jump to Contacts Folder
-Ctrl+4  | Jump to Tasks Folder
-Ctrl+5  | Jump to Notes Folder
-Ctrl+7  | Jump to Shortcuts Folder
-Ctrl+8  | Jump to Journal Folder
+Ctrl+1  | Jump to Mail
+Ctrl+2  | Jump to Calendar
+Ctrl+3  | Jump to Contacts
+Ctrl+4  | Jump to Tasks
+Ctrl+5  | Jump to Notes
+Ctrl+7  | Jump to Shortcuts
+Ctrl+8  | Jump to Journal
  
 ###Creating items
 Key  | Meaning
