@@ -37,8 +37,8 @@ Ctrl+8  | Jump to Journal Folder
 ###Creating items
 Key  | Meaning
 -----  | ----
-Ctrl+Shift+M  | Create a new Email
-Ctrl+Shift+K  | Create a new Task
-Ctrl+Shift+N  | Create a new Note
-Ctrl+Shift+A  | Create a new Appointment
-Ctrl+Shift+Q  | Create a new Meeting Request
+Ctrl+Shift+M  | Create a new **M**ail
+Ctrl+Shift+K  | Create a new tas**K**
+Ctrl+Shift+N  | Create a new **N**ote
+Ctrl+Shift+A  | Create a new **A**ppointment
+Ctrl+Shift+Q  | Create a new Meeting re**Q**uest
