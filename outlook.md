@@ -16,8 +16,8 @@ Ctrl+Shift+F  | Open the Advanced Find window
 ###Navigation while the keyboard focus is in the reading pane
 Key  | Meaning
 -----  | ----
-Arrows, PgUp/PgDown  | Scroll the document viewport
-Alt+Arrows, Alt+PgUp/PgDown, Ctrl+./,  | Select the previous next message, keeping the focus in the reading pane
+Arrows <br /> PgUp/PgDown  | Scroll the document viewport
+Alt+Arrows <br /> Alt+PgUp/PgDown <br /> Ctrl+./,  | Select the previous next message, keeping the focus in the reading pane
 Ctrl+Y  | Jump to a Folder
 Ctrl+Shift+1-9  | define your custom quick steps to quickly file a message to a folder and mark it as read or flagged.
 To set up a "jump to next unread" shortcut, see the instructions here.
