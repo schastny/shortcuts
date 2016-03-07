@@ -19,9 +19,8 @@ Key  | Meaning
 Arrows <br /> PgUp/PgDown  | Scroll the document viewport
 Alt+Arrows <br /> Alt+PgUp/PgDown <br /> Ctrl+./,  | Select the previous next message, keeping the focus in the reading pane
 Ctrl+Y  | Jump to a Folder
-Ctrl+Shift+1-9  | define your custom quick steps to quickly file a message to a folder and mark it as read or flagged.
-To set up a "jump to next unread" shortcut, see the instructions here.
- 
+Ctrl+Shift+1-9  | Define your custom quick steps to quickly file a message to a folder and mark it as read or flagged
+
 ###Jumping between folders
 Key  | Meaning
 -----  | ----
