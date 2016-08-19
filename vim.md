@@ -77,6 +77,8 @@ yw  | yank word
 y$  | yank to end of line
 p  | put (paste) the clipboard after cursor
 P  | put (paste) before cursor
+:set paste  | To turn off autoindent when you paste code
+:set nopaste  | To turn on autoindent when you paste code
 dd  | delete (cut) a line
 dw  | delete (cut) the current word
 x  | delete (cut) current character
