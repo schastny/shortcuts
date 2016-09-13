@@ -1,6 +1,6 @@
 ##Sed
 
-Find and replace
+##Find and replace  
 sed -i -e 's/foo/bar/g' filename
 
 g: Global  
