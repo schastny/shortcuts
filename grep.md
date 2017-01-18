@@ -1,12 +1,4 @@
-##Less
-Key  | Meaning
------  | ----
-CTRL+F  | forward one window
-CTRL+B  | backward one window
--N  | display numbers
--S  | wrap lines
-j  | navigate forward by one line
-k  | navigate backward by one line
-&pattern  | display only the matching lines, not all
-/pattern  | search forward for (N-th) matching line.
-?pattern  | search backward for (N-th) matching line.
+##Grep
+cat -n hist.log | grep 21355bb
+head -48 hist.log | grep -aoe "[0-9] | .*" | grep -aoP "(?<=\| ).*" | grep -v Merge | sort -u > commits.log
+less commits.log | grep -vP ".*(Surname1)|(Surname2)+.*" > split1.log
