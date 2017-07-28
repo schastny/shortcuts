@@ -2,6 +2,11 @@
 
 ###Extracting build summary
 ```
+---
+;log graph all branches
+  h = log --oneline --abbrev-commit --branches=* --graph --decorate
+---
+
 git log > hist.log
 cat -n hist.log | grep 21355bb  
 head -48 hist.log | grep -aoe "[0-9] | .*" | grep -aoP "(?<=\| ).*" | grep -v Merge | sort -u > commits.log  
