@@ -42,3 +42,7 @@ Ctrl+Shift+K  | Create a new tas**K**
 Ctrl+Shift+N  | Create a new **N**ote
 Ctrl+Shift+A  | Create a new **A**ppointment
 Ctrl+Shift+Q  | Create a new Meeting re**Q**uest
+
+
+###Moving down after mail deletion
+In Outlook, go to the File tab and select Options. Click Mail. Scroll down to the very bottom of the screen. In the dropdown menu, select “open the previous item.”
